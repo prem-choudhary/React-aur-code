@@ -1,5 +1,10 @@
+import File from "./firstFile";
 function App() {
-  return <h1>React aur code with me </h1>;
+  return (
+    <>
+      <File />
+    </>
+  );
 }
 
 export default App;
